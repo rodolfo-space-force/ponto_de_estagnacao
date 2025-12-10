@@ -2,8 +2,10 @@
 Estimativa de Carga Térmica em Pontos de Estagnação
 
 Este repositório apresenta o cálculo da temperatura na parede (Tf) de superfícies expostas ao escoamento supersônico, com base na equação empírica da camada limite.
+
 A modelagem considera os efeitos da razão de calores específicos, número de Mach e escoamento laminar (r = 0,85).
 A convecção térmica na camada limite do escoamento aerodinâmico é uma das principais fontes de carga térmica em componentes expostos de veículos aeroespaciais.
+
 Para resistir às altas temperaturas resultantes desse fenômeno, empregam-se materiais isolantes e ablativos em pontos críticos da estrutura.
 A temperatura na vizinhança do ponto de estagnação, especialmente em superfícies frontais ao fluxo de ar, pode ser estimada pela seguinte equação:
 
