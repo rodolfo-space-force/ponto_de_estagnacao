@@ -9,12 +9,12 @@ A temperatura na vizinhança do ponto de estagnação, especialmente em superfí
 
 ![Texto alternativo da imagem](formula.png)
 
-======================================
+
 Exemplo de uso:
 Se o veículo estiver a Mach = 2 e a temperatura do ar for 0 ºC (273 K)
 o temperatura da parede será de 185 ºC. 
 Ja em em Mach = 3, a temperatura será de  ~417 ºC.
-=======================================
+
 
 Tais temperaturas excedem a resistência térmica do alumínio, que começa a perder suas propriedades mecânicas em torno de 100 ºC. 
 Por isso, nas regiões onde há estagnação do escoamento supersônico — como nariz da coifa, bordos de ataque de empenas ou em torno de protuberâncias, é necessário empregar proteções térmicas especiais sobre o alumínio ou utilizar materiais ablativos diretamente.
