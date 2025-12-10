@@ -15,6 +15,6 @@ Por isso, nas regiões onde há estagnação do escoamento supersônico — como
 
 ## Licença
 
-Este projeto está licenciado sob os termos da MIT License.  
+Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
 
 [Clique aqui para ver a licença completa.](https://opensource.org/licenses/MIT)
