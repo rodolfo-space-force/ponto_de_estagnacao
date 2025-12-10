@@ -7,7 +7,7 @@ A convecção térmica na camada limite do escoamento aerodinâmico é uma das p
 Para resistir às altas temperaturas resultantes desse fenômeno, empregam-se materiais isolantes e ablativos em pontos críticos da estrutura.
 A temperatura na vizinhança do ponto de estagnação, especialmente em superfícies frontais ao fluxo de ar, pode ser estimada pela seguinte equação:
 
-![Texto alternativo da imagem](formula.jpg)
+![Texto alternativo da imagem](formula.png)
 
 Tais temperaturas excedem a resistência térmica do alumínio, que começa a perder suas propriedades mecânicas em torno de 100 ºC. 
 Por isso, nas regiões onde há estagnação do escoamento supersônico — como nariz da coifa, bordos de ataque de empenas ou em torno de protuberâncias, é necessário empregar proteções térmicas especiais sobre o alumínio ou utilizar materiais ablativos diretamente.
