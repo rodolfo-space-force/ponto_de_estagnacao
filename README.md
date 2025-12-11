@@ -7,14 +7,16 @@ A modelagem considera os efeitos da razão de calores específicos, número de M
 A convecção térmica na camada limite do escoamento aerodinâmico é uma das principais fontes de carga térmica em componentes expostos de veículos aeroespaciais.
 
 Para resistir às altas temperaturas resultantes desse fenômeno, empregam-se materiais isolantes e ablativos em pontos críticos da estrutura.
+
 A temperatura na vizinhança do ponto de estagnação, especialmente em superfícies frontais ao fluxo de ar, pode ser estimada pela seguinte equação:
 
 ![Texto alternativo da imagem](formula.png)
 
 
 Exemplo de uso:
-Se o veículo lançador VLS-1 estiver a Mach = 2 e a temperatura do ar for 0 ºC (273 K)
-o temperatura da parede da coifa será de 185 ºC. 
+
+Se o veículo lançador VLS-1 estiver a Mach = 2 e a temperatura do ar for 0 ºC (273 K) a temperatura da parede da coifa será de 185 ºC. 
+
 Ja em em Mach = 3, a temperatura será de  ~417 ºC.
 
 Tais temperaturas excedem a resistência térmica do alumínio, que começa a perder suas propriedades mecânicas em torno de 100 ºC. 
