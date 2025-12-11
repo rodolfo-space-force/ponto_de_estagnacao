@@ -24,6 +24,8 @@ Tais temperaturas excedem a resistência térmica do alumínio, que começa a pe
 
 Por isso, nas regiões onde há estagnação do escoamento supersônico, como nariz da coifa, bordos de ataque de empenas ou em torno de protuberâncias, é necessário empregar proteções térmicas especiais sobre o alumínio ou utilizar materiais ablativos diretamente.
 
+You can reach me at rmilhomem[at]gmail[dot]com or connect on [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force/) for collaborations.
+
 
 ## Licença
 
