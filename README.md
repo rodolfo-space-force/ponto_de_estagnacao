@@ -1,4 +1,4 @@
-# ponto_de_estagnacao
+# Ponto_de_estagnacao
 Estimativa de Carga Térmica em Pontos de Estagnação
 
 Este repositório apresenta o cálculo da temperatura na parede (Tf) de superfícies expostas ao escoamento supersônico, com base na equação empírica da camada limite.
