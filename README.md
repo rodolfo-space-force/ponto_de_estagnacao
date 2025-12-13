@@ -1,6 +1,8 @@
 # Ponto_de_estagnacao
 Estimativa de Carga Térmica em Pontos de Estagnação
 
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
+
 Este repositório apresenta o cálculo da temperatura na parede (Tf) de superfícies expostas ao escoamento supersônico, com base na equação empírica da camada limite.
 
 A modelagem considera os efeitos da razão de calores específicos, número de Mach e escoamento laminar (r = 0,85).
